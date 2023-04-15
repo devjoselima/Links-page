@@ -90,3 +90,8 @@ header .profile-avatar {
   color: #3498db;
   background-color: transparent;
 }
+@media (max-width: 767px) {
+  .projects-list-item {
+    width: 100%;
+  }
+}
